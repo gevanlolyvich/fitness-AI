@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/c0f5bdca-d7a9-4e42-a69c-6e50b1b02c34
+View publis app https://hypertrophy-master-238646849952.asia-southeast1.run.app
 
 ## Run Locally
 
